@@ -1,1 +1,1 @@
-# Digital-Litracy
+# Digital-Literacy
