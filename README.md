@@ -167,7 +167,6 @@ A detailed case study of the "Collect Request" scam targeting college students o
 - Ministry of Home Affairs, I4C Annual Report 2023 — [mha.gov.in] (https://mha.gov.in)
 - Reserve Bank of India, UPI Safety Guidelines — [rbi.org.in] (https://rbi.org.in)
 - National Cyber Crime Reporting Portal — [cybercrime.gov.in] (https://cybercrime.gov.in)
-- VIT Bhopal University, CSE0001 Project Assignment Brief (2025–26)
 
 ---
 
