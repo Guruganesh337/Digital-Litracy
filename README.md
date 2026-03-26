@@ -142,7 +142,7 @@ A detailed case study of the "Collect Request" scam targeting college students o
 | Resource | Link |
 |----------|------|
 | Project Report | [report/Project_Report.pdf] (report/Project_Report.pdf) |
-| Digital Literacy Quiz ( https://forms.gle/eXTuZtpcGAoaDzr2A ) |
+| Digital Literacy Quiz | ( https://forms.gle/eXTuZtpcGAoaDzr2A ) |
 | GitHub Profile | [github.com/Guruganesh337]  (https://github.com/Guruganesh337) |
 | National Cyber Crime Portal | [cybercrime.gov.in] (https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
