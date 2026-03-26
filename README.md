@@ -175,5 +175,3 @@ A detailed case study of the "Collect Request" scam targeting college students o
 All written reflections and content in this repository are my own original work. External sources have been cited where referenced. AI tools were used to understand concepts and structure deliverables; all final write-ups reflect my own understanding and experience, in accordance with the course's Academic Integrity policy.
 
 ---
-
-*Submitted for CSE0001 – Digital Literacy | VIT Bhopal University | 2025–26*
