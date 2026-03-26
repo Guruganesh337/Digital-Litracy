@@ -82,7 +82,7 @@ Set up professional profiles on three platforms:
 |----------|---------|--------------|
 | **GitHub** | Code hosting, open source, project showcase | [github.com/Guruganesh337] (https://github.com/Guruganesh337) |
 | **LinkedIn** | Professional networking, internships, jobs | https://www.linkedin.com/in/ganesh-s-41089737b/ |
-| **Kaggle** | Data science practice, competitions, notebooks | https://www.kaggle.com/ |
+| **Kaggle** | Data science practice, competitions, notebooks | https://www.kaggle.com/guruganeshs |
 
 📄 [View Screenshots →] (task-2-portfolio/)
 
