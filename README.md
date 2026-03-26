@@ -70,7 +70,7 @@ Created a single-page visual infographic covering five key areas of digital lite
 - Professional online presence (LinkedIn, GitHub, portfolio tips)
 - Email etiquette (subject lines, salutations, tone, sign-offs)
 
-📄 [View Infographic →](task-1-presentation/digital-literacy-infographic.png)
+📄 [View Infographic →] (task-1-presentation/digital-literacy-infographic.png)
 
 ---
 
@@ -80,11 +80,11 @@ Set up professional profiles on three platforms:
 
 | Platform | Purpose | Profile Link |
 |----------|---------|--------------|
-| **GitHub** | Code hosting, open source, project showcase | [github.com/Guruganesh337](https://github.com/Guruganesh337) |
-| **LinkedIn** | Professional networking, internships, jobs | *(Add your LinkedIn URL here)* |
-| **Kaggle** | Data science practice, competitions, notebooks | *(Add your Kaggle URL here)* |
+| **GitHub** | Code hosting, open source, project showcase | [github.com/Guruganesh337] (https://github.com/Guruganesh337) |
+| **LinkedIn** | Professional networking, internships, jobs | https://www.linkedin.com/in/ganesh-s-41089737b/ |
+| **Kaggle** | Data science practice, competitions, notebooks | https://www.kaggle.com/ |
 
-📄 [View Screenshots →](task-2-portfolio/)
+📄 [View Screenshots →] (task-2-portfolio/)
 
 ---
 
@@ -101,9 +101,9 @@ Created a 5-question **Digital Literacy Awareness Quiz** using Google Forms, cov
 4. Public Wi-Fi safety (MCQ)
 5. Echo Chamber effect (Short Answer)
 
-🔗 [Google Form Quiz Link →]( https://forms.gle/eXTuZtpcGAoaDzr2A)
+🔗 [Google Form Quiz Link →]  ( https://forms.gle/eXTuZtpcGAoaDzr2A)
 
-📄 [View Screenshots →](task-3-platforms/)
+📄 [View Screenshots →] (task-3-platforms/)
 
 ---
 
@@ -115,8 +115,8 @@ Created a 5-question **Digital Literacy Awareness Quiz** using Google Forms, cov
 
 **Part B – Social Media Do's and Don'ts checklist** with 7 Do's and 7 Don'ts for responsible social media use as a college student, including a "THINK before you post" quick reference card.
 
-📄 [View Email Drafts →](task-4-email-etiquette/professional-emails.docx)  
-📄 [View Social Media Checklist →](task-4-email-etiquette/social-media-checklist.md)
+📄 [View Email Drafts →] (task-4-email-etiquette/professional-emails.docx)  
+📄 [View Social Media Checklist →] (task-4-email-etiquette/social-media-checklist.md)
 
 ---
 
@@ -130,10 +130,10 @@ A detailed case study of the "Collect Request" scam targeting college students o
 **Part B – Prevention Checklist: Stay Safe Online**  
 15 actionable tips for college students covering general safety, UPI-specific fraud prevention, social media safety, and what to do if victimised.
 
-🆘 Report cybercrime: **[cybercrime.gov.in](https://cybercrime.gov.in)** | Helpline: **1930** (24x7)
+🆘 Report cybercrime: **[cybercrime.gov.in] (https://cybercrime.gov.in)** | Helpline: **1930** (24x7)
 
-📄 [View Case Study →](task-5-cybercrime/casestudy.md)  
-📄 [View Prevention Checklist →](task-5-cybercrime/prevention-checklist.md)
+📄 [View Case Study →] (task-5-cybercrime/casestudy.md)  
+📄 [View Prevention Checklist →] (task-5-cybercrime/prevention-checklist.md)
 
 ---
 
@@ -141,10 +141,10 @@ A detailed case study of the "Collect Request" scam targeting college students o
 
 | Resource | Link |
 |----------|------|
-| Project Report | [report/Project_Report.pdf](report/Project_Report.pdf) |
+| Project Report | [report/Project_Report.pdf] (report/Project_Report.pdf) |
 | Digital Literacy Quiz ( https://forms.gle/eXTuZtpcGAoaDzr2A ) |
-| GitHub Profile | [github.com/Guruganesh337](https://github.com/Guruganesh337) |
-| National Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
+| GitHub Profile | [github.com/Guruganesh337]  (https://github.com/Guruganesh337) |
+| National Cyber Crime Portal | [cybercrime.gov.in] (https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24×7) |
 
 ---
@@ -164,10 +164,10 @@ A detailed case study of the "Collect Request" scam targeting college students o
 
 ## 📖 References
 
-- Ministry of Home Affairs, I4C Annual Report 2023 — [mha.gov.in](https://mha.gov.in)
-- Reserve Bank of India, UPI Safety Guidelines — [rbi.org.in](https://rbi.org.in)
-- National Cyber Crime Reporting Portal — [cybercrime.gov.in](https://cybercrime.gov.in)
-- VIT Bhopal University, CSE0001 Project Assignment Brief (2024–25)
+- Ministry of Home Affairs, I4C Annual Report 2023 — [mha.gov.in] (https://mha.gov.in)
+- Reserve Bank of India, UPI Safety Guidelines — [rbi.org.in] (https://rbi.org.in)
+- National Cyber Crime Reporting Portal — [cybercrime.gov.in] (https://cybercrime.gov.in)
+- VIT Bhopal University, CSE0001 Project Assignment Brief (2025–26)
 
 ---
 
